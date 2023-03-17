@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/DqUXMBK5hq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCoder23)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCoder23&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PCoder23&theme=onedark)](https://git.io/streak-stats)
