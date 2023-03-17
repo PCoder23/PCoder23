@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/DqUXMBK5hq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PCoder23)](https://git.io/streak-stats)
