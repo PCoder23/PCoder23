@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hey Guys, I am Pranav, a Sophomere at Asansol Engineering College pursuing Batchelor Of Technology in Artificial Intelligence and Machine Learning.
+I am an Android App developer as well as Backend Developer who is also enthuastic about game Development and Machine Learning.
+
 <!--
 **PCoder23/PCoder23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
